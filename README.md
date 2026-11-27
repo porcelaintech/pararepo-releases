@@ -4,6 +4,8 @@ Pararepo lets coding agents work in separate Git worktrees. Follow a project's p
 
 Pararepo 帮助编程 Agent 在独立的 Git 工作树中完成需求。你可以在 Mac 看板上跟踪项目进度，在原来的 Agent 对话中查看结果。
 
+[Source code · 源码](https://github.com/porcelaintech/pararepo) · [MIT license · MIT 许可证](https://github.com/porcelaintech/pararepo/blob/main/LICENSE)
+
 ## Download · 下载安装包
 
 Choose one installer for your Apple Silicon Mac. 在使用 Apple 芯片的 Mac 上，按需要下载其中一个版本。
